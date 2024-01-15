@@ -16,4 +16,4 @@
  [Ссылка на readme.md в папке](MD/readme.md)
 
 
- [Полная ссылка на index.html]([HTML](https://github.com/gsem73/TEST/blob/master/HTML/index.html)https://github.com/gsem73/TEST/blob/master/HTML/index.html)
+ [Полная ссылка на index.html](https://github.com/gsem73/TEST/blob/master/HTML/index.html)
